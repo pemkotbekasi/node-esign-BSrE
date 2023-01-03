@@ -1,0 +1,29 @@
+{
+  "name": "@rahadiana/node-esign-bsre",
+  "version": "0.0.1",
+  "description": "Package nodejs untuk memudahkan penggunaan E-Sign BSrE (Balai Sertifikasi Elektronik) API dari BSSN (Badan Sandi dan Siber Negara)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "government",
+    "signature",
+    "e-signature",
+    "sign",
+    "e-sign",
+    "government-tech",
+    "bssn",
+    "bsre"
+  ],
+  "author": "rahadiana nugraha <rahadiana.nugraha@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@rahadiana/node_response_standard": "^0.0.1",
+    "axios": "^1.2.2",
+    "form-data": "^4.0.0",
+    "node-input-validator": "^4.5.1",
+    "path": "^0.12.7",
+    "stream": "^0.0.2"
+  }
+}
