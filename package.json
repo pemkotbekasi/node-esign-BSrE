@@ -1,6 +1,6 @@
 {
   "name": "@rahadiana/node-esign-bsre",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Package nodejs untuk memudahkan penggunaan E-Sign BSrE (Balai Sertifikasi Elektronik) API dari BSSN (Badan Sandi dan Siber Negara)",
   "main": "index.js",
   "scripts": {
