@@ -189,13 +189,6 @@ Lihat [CONTRIBUTING](CONTRIBUTING.md) untuk lebih detailnya.
 
   
 
-### Keamanan
-
-  
-
-Jika anda menemukan masalah kerentanan keamanan pada package, tolong email ke diskominfotikbna[at]gmail.com
-
-  
 
 ## Credits
 
